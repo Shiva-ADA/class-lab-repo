@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Shiva Prasad Reddy Narra]  
+- Certification: [Meta Database Engineer]  
 
 ## Instructions
 Please replace the placeholders with your details:
